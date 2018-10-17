@@ -1,4 +1,4 @@
-# GAN_POC
+# GAN_POC testing
 
 ```
 python generate_train_data.py --file lisa.avi --num 400 --landmark-model shape_predictor_68_face_landmarks.dat
